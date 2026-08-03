@@ -97,7 +97,7 @@ Modern portfolio built with clean UI and smooth animations.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luciferizzzz&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luciferizzzz&show_icons=true&theme=github_dark&hide_border=true"/>
 
 </p>
 
