@@ -111,7 +111,7 @@ Modern portfolio built with clean UI and smooth animations.
 # 📫 Connect
 
 <p>
-<a href="https://github.com/LevTikvah">
+<a href="https://github.com/luciferizzzz">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 </p>
