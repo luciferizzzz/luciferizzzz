@@ -123,3 +123,7 @@ Modern portfolio built with clean UI and smooth animations.
 > *"Learning by building."*
 
 </p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:3b82f6,100:06b6d4"/>
+</p>
