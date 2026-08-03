@@ -85,7 +85,7 @@ Modern portfolio built with clean UI and smooth animations.
 
 | Song | Artist |
 |------|--------|
-| Wish You The Best | Lewis Capaldi |
+| Survive | Lewis Capaldi |
 | Fall Into Me | Forest Blakk |
 | Flashbacks | Zach Hood |
 | Maybe Next Time | Jamie Miller |
