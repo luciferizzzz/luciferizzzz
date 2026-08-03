@@ -93,42 +93,8 @@ Modern portfolio built with clean UI and smooth animations.
 
 ---
 
-# 📊 GitHub Stats
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luciferizzzz&show_icons=true&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=LevTikvah&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LevTikvah&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LevTikvah&theme=algolia&no-frame=true&margin-w=8&margin-h=8"/>
-
+<img src="https://raw.githubusercontent.com/luciferizzzz/luciferizzzz/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
