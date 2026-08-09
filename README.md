@@ -34,7 +34,7 @@ Most of my projects begin with:
 
 # 🚀 Current Projects
 
-### 📖 Obsidian Helper CLI
+### 📖 ObsKit
 
 A fast command-line tool for managing notes inside an Obsidian vault.
 
