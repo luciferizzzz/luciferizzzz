@@ -50,6 +50,12 @@ Utility, automation, moderation and anime bots.
 
 Modern portfolio built with clean UI and smooth animations.
 
+### 🛡️ AEGIS
+
+An open source security posture auditing platform designed to help developers and organizations analyze, evaluate and improve their security practices.
+
+Focused on security assessment, system analysis, risk visibility and actionable insights.
+
 ---
 
 # 💻 Tech Stack
