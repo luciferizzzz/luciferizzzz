@@ -56,6 +56,10 @@ An open source security posture auditing platform designed to help developers an
 
 Focused on security assessment, system analysis, risk visibility and actionable insights.
 
+### 👁️ Nova
+
+Localhost news web
+
 ---
 
 # 💻 Tech Stack
